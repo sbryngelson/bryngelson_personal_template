@@ -1,9 +1,9 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
-url: ""
+title: Yoonjin Im
+email: yoonjin.im@wisc.edu
+description: Ph.D. student at UW-Madison
+# baseurl: ""
+# url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
